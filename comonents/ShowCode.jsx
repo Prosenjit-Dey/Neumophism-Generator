@@ -5,7 +5,7 @@ import React, { useRef, useEffect, useState } from "react";
 const useStyles = makeStyles({
   codepannel: {
     width: "100%",
-    height: 150,
+    height: 160,
     borderRadius: 20,
     padding: "15px 20px",
     background: "rgb(32, 32, 32)",
