@@ -5,7 +5,7 @@ import Header from "../comonents/Header";
 import Range from "../comonents/Range";
 import ColorPicker from "../comonents/ColorPicker";
 import ShowCode from "../comonents/ShowCode";
-import Format from "../comonents/Format";
+// import Format from "../comonents/Format";
 import useColor from "../useColor";
 import { Grid, Container, Box, makeStyles, Tooltip } from "@material-ui/core";
 const navbarHeight = 66;
